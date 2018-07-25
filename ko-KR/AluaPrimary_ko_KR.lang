@@ -1,38 +1,38 @@
 ﻿language.code=ko-KR
 language=한국어
 //TODO Translate [Reference] 'Oh! Well this is a little disappointing...'
-staxel.village.dialogue.Alua.line:10001400=
+staxel.village.dialogue.Alua.line:10001400=아! 그래 뭐, 좀 실망이다...
 //TODO Translate [Reference] 'I had hoped he'd come and do it himself...'
-staxel.village.dialogue.Alua.line:10001500=
+staxel.village.dialogue.Alua.line:10001500=좀 와서 도와 줄 줄 알았는데...
 //TODO Translate [Reference] 'Oh! But maybe that was a bit rude of me.'
-staxel.village.dialogue.Alua.line:10001600=
+staxel.village.dialogue.Alua.line:10001600=아! 그치만 내가 좀 무례했을지도 모르지.
 //TODO Translate [Reference] 'I didn't mean to suggest I wasn't thankful!'
-staxel.village.dialogue.Alua.line:10001700=
+staxel.village.dialogue.Alua.line:10001700=고마운 마음은 아직 여전해.
 //TODO Translate [Reference] 'Just disappointed. In the circumstances. Not in you.'
-staxel.village.dialogue.Alua.line:10001800=
+staxel.village.dialogue.Alua.line:10001800=그냥 실망했다는 거야. 상황이 그러니까. 
 //TODO Translate [Reference] 'I suppose I should give you some kind of reward?'
-staxel.village.dialogue.Alua.line:10001900=
+staxel.village.dialogue.Alua.line:10001900=보상이라도 좀 주는 게 맞는걸까?
 //TODO Translate [Reference] 'Maybe that will be of some use to you?'
-staxel.village.dialogue.Alua.line:10002000=
+staxel.village.dialogue.Alua.line:10002000=네가 좀 쓸만한 걸 줘야겠지?
 //TODO Translate [Reference] 'Could you deliver that to ^c:1486b0;Oscar^c:pop;?'
-staxel.village.dialogue.Alua.line:10002100=
+staxel.village.dialogue.Alua.line:10002100=이걸 ^c:1486b0;{0-playername}^c:pop; 에게 전해주겠어?
 //TODO Translate [Reference] 'I want to thank him too...'
-staxel.village.dialogue.Alua.line:10002200=
+staxel.village.dialogue.Alua.line:10002200=나도 그에겐 정말 고마워하고 있어...
 //TODO Translate [Reference] 'Oh, hello ^c:1486b0;{0-playername}^c:pop;!'
-staxel.village.dialogue.Alua.line:10002300=
+staxel.village.dialogue.Alua.line:10002300=어, 안녕 ^c:1486b0;{0-playername}^c:pop;!
 //TODO Translate [Reference] 'How have you fared of late?'
-staxel.village.dialogue.Alua.line:10002400=
-//TODO Translate [Reference] '^c:1486b0;Oscar^c:pop; really does keep this place tidy...'
-staxel.village.dialogue.Alua.line:10002500=
+staxel.village.dialogue.Alua.line:10002400=요즘 어떻게 지내?
+//TODO Translate [Reference] ;Oscar^'^c:1486b0c:pop; really does keep this place tidy...'
+staxel.village.dialogue.Alua.line:10002500=^c:1486b0;{0-playername}^c:pop; 덕분에 이 곳이 깨끗하게 유지되고 있어.
 //TODO Translate [Reference] 'I wonder how he manages to find the time to clean an entire village of miscreants by himself?'
-staxel.village.dialogue.Alua.line:10002600=
+staxel.village.dialogue.Alua.line:10002600=궁금해, 그는 어떻게 이 마을을 전부 청소할 시간을 마련하는걸까?
 //TODO Translate [Reference] 'Where do I live?'
-staxel.village.dialogue.Alua.line:10002700=
+staxel.village.dialogue.Alua.line:10002700=난 어디서 지내지?
 //TODO Translate [Reference] 'Why, I certainly cannot tell you that! We fey value our privacy!'
-staxel.village.dialogue.Alua.line:10002800=
+staxel.village.dialogue.Alua.line:10002800=아, 그건 말해줄 수 없겠다! 우린 사생활은 중요하니까!
 //TODO Translate [Reference] 'Do I miss being coated in rubbish?'
-staxel.village.dialogue.Alua.line:10002900=
+staxel.village.dialogue.Alua.line:10002900=쓰레기로 덮혀사는 게 그리워지는 건가?
 //TODO Translate [Reference] 'Well... I did spend many a year that way...'
-staxel.village.dialogue.Alua.line:10003000=
+staxel.village.dialogue.Alua.line:10003000=뭐... 여태껏 그렇게 살아왔으니까...
 //TODO Translate [Reference] 'But no, of course not! I had even begun to forget the scent of flowers!'
-staxel.village.dialogue.Alua.line:10003100=
+staxel.village.dialogue.Alua.line:10003100=그렇지만 아니야. 당연한 말씀! 심지어 꽃 향기조차 잊고 살았었는데!
